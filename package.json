@@ -1,0 +1,16 @@
+{
+  "name": "finAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "GianRossini <gianrossini.developer@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
